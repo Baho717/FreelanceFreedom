@@ -1,0 +1,15 @@
+/Users/benjaminaho/Projects/Freelancer-Designer/Freelancer-Designer/bin/Debug/net5.0/Freelancer-Designer.deps.json
+/Users/benjaminaho/Projects/Freelancer-Designer/Freelancer-Designer/bin/Debug/net5.0/Freelancer-Designer.runtimeconfig.json
+/Users/benjaminaho/Projects/Freelancer-Designer/Freelancer-Designer/bin/Debug/net5.0/Freelancer-Designer.runtimeconfig.dev.json
+/Users/benjaminaho/Projects/Freelancer-Designer/Freelancer-Designer/bin/Debug/net5.0/Freelancer-Designer.dll
+/Users/benjaminaho/Projects/Freelancer-Designer/Freelancer-Designer/bin/Debug/net5.0/ref/Freelancer-Designer.dll
+/Users/benjaminaho/Projects/Freelancer-Designer/Freelancer-Designer/bin/Debug/net5.0/Freelancer-Designer.pdb
+/Users/benjaminaho/Projects/Freelancer-Designer/Freelancer-Designer/obj/Debug/net5.0/Freelancer-Designer.csproj.AssemblyReference.cache
+/Users/benjaminaho/Projects/Freelancer-Designer/Freelancer-Designer/obj/Debug/net5.0/Freelancer-Designer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminaho/Projects/Freelancer-Designer/Freelancer-Designer/obj/Debug/net5.0/Freelancer-Designer.AssemblyInfoInputs.cache
+/Users/benjaminaho/Projects/Freelancer-Designer/Freelancer-Designer/obj/Debug/net5.0/Freelancer-Designer.AssemblyInfo.cs
+/Users/benjaminaho/Projects/Freelancer-Designer/Freelancer-Designer/obj/Debug/net5.0/Freelancer-Designer.csproj.CoreCompileInputs.cache
+/Users/benjaminaho/Projects/Freelancer-Designer/Freelancer-Designer/obj/Debug/net5.0/Freelancer-Designer.dll
+/Users/benjaminaho/Projects/Freelancer-Designer/Freelancer-Designer/obj/Debug/net5.0/ref/Freelancer-Designer.dll
+/Users/benjaminaho/Projects/Freelancer-Designer/Freelancer-Designer/obj/Debug/net5.0/Freelancer-Designer.pdb
+/Users/benjaminaho/Projects/Freelancer-Designer/Freelancer-Designer/obj/Debug/net5.0/Freelancer-Designer.genruntimeconfig.cache
