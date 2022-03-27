@@ -1,7 +1,5 @@
 ﻿using System;
-using FreelaneApplication.AddNewProjects;
-
-namespace Freelancer_Designer.Name
+namespace Freelancer_Designer.NameBaseClass
 {
     public class Name
     {
@@ -13,8 +11,7 @@ namespace Freelancer_Designer.Name
         {
             this.aName = AName;
             this.userName = UserName;
-            this.clientName= ClientName;
-
+            this.clientName = ClientName;
         }
 
         public Name()

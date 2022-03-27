@@ -1,22 +1,27 @@
 ﻿using System;
+using Freelancer_Designer.Name;
 
 namespace FreelaneApplication.AddNewProjects
 {
-    public class NewProjects
-    {
-        private string projectName;
-        private string clientName;
-        private string clientEmail;
-        private int projectPrice;
-        private DateTime projectDeadline;
-        private string projectDescription;
-        private int projectSize;
-        private string concludingNotes;
 
-        public NewProjects(string ProjectName, string ClientName, string ClientEmail, int ProjectPrice, DateTime ProjectDeadline, string ProjectDescription, int ProjectSize, string ConcludingNotes)
+    public class NewProjects: Name
+
+    {
+        
+        public string projectName { get; set; }
+        //public string clientName { get; set; }
+        public string clientEmail { get; set; }
+        public int projectPrice { get; set; }
+        public DateTime projectDeadline { get; set; }
+        public string projectDescription { get; set; }
+        public int projectSize { get; set; }
+        public string concludingNotes { get; set; }
+
+
+        public NewProjects(string ProjectName, string ClientEmail, int ProjectPrice, DateTime ProjectDeadline, string ProjectDescription, int ProjectSize, string ConcludingNotes)
         {
             this.projectName = ProjectName;
-            this.clientName = ClientName;
+            //this.clientName = ClientName;
             this.clientEmail = ClientEmail;
             this.projectPrice = ProjectPrice;
             this.projectDeadline = ProjectDeadline;
@@ -25,11 +30,10 @@ namespace FreelaneApplication.AddNewProjects
             this.concludingNotes = ConcludingNotes;
         }
 
-
         public NewProjects()
         {
-            this.projectName = string.Empty;
-            this.clientName = string.Empty;
+           this.projectName = string.Empty;
+            //this.clientName = string.Empty;
             this.clientEmail = string.Empty;
             this.projectPrice = 0;
             this.projectDeadline = DateTime.Now;
@@ -38,65 +42,26 @@ namespace FreelaneApplication.AddNewProjects
             this.concludingNotes = string.Empty;
         }
 
+
         public NewProjects(string projectName)
         {
             this.projectName = projectName;
         }
 
-        public string ProjectName
-        {
-            get { return projectName; }
-            set { ProjectName = value; }
-        }
+       // public NewProjects(string projectName)
+       // {
+        //    this.ProjectName = projectName;
+        //}
 
-        public string ClientName
+        public override string ToString()
         {
-            get { return clientName; }
-            set { ClientName = value; }
+            return $"\nProject Name: {projectName},\n Client Name: {this.clientName},\n Client Email: {this.clientEmail},\n Project Price: {this.projectPrice},\n Project Deadline: {this.projectDeadline},\n Project Description: {this.projectDescription},\n Project Size {this.projectSize},\n Concluding Notes: {this.concludingNotes}.".ToString();
         }
-
-        public string ClientEmail
+        public string ToArray()
         {
-            get { return clientEmail; }
-            set { ClientEmail = value; }
-        }
 
-        public double ProjectPrice
-        {
-            get { return projectPrice; }
-            set { ProjectPrice = Convert.ToDouble(value); }
-        }
+            return Convert.ToString($"\n{projectName}: {this.projectDeadline}.").ToString();
 
-        public DateTime ProjectDeadline
-        {
-            get { return projectDeadline; }
-            set { ProjectDeadline = Convert.ToDateTime(value); }
-        }
-
-        public string ProjectDescription
-        {
-            get { return projectDescription; }
-            set { ProjectDescription = value; }
-        }
-
-        public double ProjectSize
-        {
-            get { return projectSize; }
-            set
-            {
-                { ProjectSize = Convert.ToInt32(value); }
-            }
-        }
-
-        public string ConcludingNotes
-        {
-            get { return concludingNotes; }
-            set { ConcludingNotes = value; }
-        }
-
-        internal void Add(NewProjects np)
-        {
-            Console.WriteLine(ProjectName, ProjectDescription);
         }
     }
 }

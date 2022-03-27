@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/benjaminaho/Documents/Benjamin-Aho-Final-Project/AhoCodeLouisvilleFinalProject/Freelancer-Designer/Freelancer-Designer.csproj": {}
+    "/Users/benjaminaho/Documents/CodeLouisvilleFinalProjectAho/Freelancer-Designer/Freelancer-Designer.csproj": {}
   },
   "projects": {
-    "/Users/benjaminaho/Documents/Benjamin-Aho-Final-Project/AhoCodeLouisvilleFinalProject/Freelancer-Designer/Freelancer-Designer.csproj": {
+    "/Users/benjaminaho/Documents/CodeLouisvilleFinalProjectAho/Freelancer-Designer/Freelancer-Designer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/benjaminaho/Documents/Benjamin-Aho-Final-Project/AhoCodeLouisvilleFinalProject/Freelancer-Designer/Freelancer-Designer.csproj",
+        "projectUniqueName": "/Users/benjaminaho/Documents/CodeLouisvilleFinalProjectAho/Freelancer-Designer/Freelancer-Designer.csproj",
         "projectName": "Freelancer-Designer",
-        "projectPath": "/Users/benjaminaho/Documents/Benjamin-Aho-Final-Project/AhoCodeLouisvilleFinalProject/Freelancer-Designer/Freelancer-Designer.csproj",
+        "projectPath": "/Users/benjaminaho/Documents/CodeLouisvilleFinalProjectAho/Freelancer-Designer/Freelancer-Designer.csproj",
         "packagesPath": "/Users/benjaminaho/.nuget/packages/",
-        "outputPath": "/Users/benjaminaho/Documents/Benjamin-Aho-Final-Project/AhoCodeLouisvilleFinalProject/Freelancer-Designer/obj/",
+        "outputPath": "/Users/benjaminaho/Documents/CodeLouisvilleFinalProjectAho/Freelancer-Designer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/benjaminaho/.config/NuGet/NuGet.Config"
