@@ -11,3 +11,6 @@ Create an additional class which inherits one or more properties from its parent
 
 Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program.
 - Both case 1 and case 2 use lists that are both used in foreach loops on case three and four.
+
+
+Please review Freelancer-Designer folder in the Feelancer-Designer Folder.
