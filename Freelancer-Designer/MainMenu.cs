@@ -125,7 +125,7 @@ namespace FreelaneApplication.MainMenu
                     var ProjectDescription = Console.ReadLine();
                     NewProjects.projectDescription = ProjectDescription;
 
-                    Console.WriteLine("What is the size of your project?");
+                    Console.WriteLine("What is the size of your project?(Please write in numerical value)");
                     try
                     {
                         var ProjectSize = Convert.ToInt32(Console.ReadLine());

@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{DDED4C01-58BC-4163-9C1A-4EBC7978ACFE}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MainMenu.cs">
     <Files>
-      <File FileName="MainMenu.cs" Line="7" Column="39" />
-      <File FileName="New projects.cs" Line="9" Column="6" />
-      <File FileName="FreelaneApplication/NameBaseClass.cs" Line="15" Column="10" />
-      <File FileName="UserSetup.cs" Line="3" Column="1" />
-      <File FileName="NameBaseClass.cs" Line="10" Column="47" />
+      <File FileName="MainMenu.cs" Line="4" Column="30" />
+      <File FileName="New projects.cs" />
+      <File FileName="FreelaneApplication/NameBaseClass.cs" />
+      <File FileName="UserSetup.cs" />
+      <File FileName="NameBaseClass.cs" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
