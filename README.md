@@ -14,7 +14,7 @@ Implement a “master loop” console application where the user can repeatedly 
 - The Master Loop is implemented in the Main Menu in the MainMenu Namespace.
 
 Create an additional class which inherits one or more properties from its parent
-- The inheriting class is seen in the name BaseClass. NewProject and UserInput both inherit from the Name namespace and pass userName and projectName through to cases 1 and 2 of the switch case of the Main Namespace.
+- The inheriting class is seen in the name BaseClass. NewProject and UserInput both inherit from the Name namespace and pass "userName" and "projectName" through to cases 1 and 2 of the switch case of the Main Namespace. These are later used in the lists.
 
 Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program.
 - Both cases 1 and 2 use lists that are implemented in foreach loops on case three and four.
