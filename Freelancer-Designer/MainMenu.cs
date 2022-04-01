@@ -189,8 +189,11 @@ namespace FreelaneApplication.MainMenu
                     else if (userChoice == '2')
                     {
                         Console.WriteLine("Return to Main Menu");
-                        break;
+                        
                     }
+                    break;
+
+                case '5':
                     return false;
 
                 default:

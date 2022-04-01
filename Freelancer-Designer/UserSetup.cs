@@ -11,7 +11,6 @@ namespace FreelaneApplication.UserSetup
 
         public UserSetup(string UserEmail, string UserAddress, string UserPhone)
         {
-            //this.userName = UserName;
             this.userEmail = UserEmail;
             this.userAddress = UserAddress;
             this.userPhone = UserPhone;
@@ -19,7 +18,6 @@ namespace FreelaneApplication.UserSetup
 
         public UserSetup()
         {
-            //this.Name = string.Empty;
             this.userEmail = string.Empty;
             this.userAddress = string.Empty;
             this.userPhone = string.Empty;
@@ -30,11 +28,6 @@ namespace FreelaneApplication.UserSetup
             this.userEmail = userEmail;
         }
 
-
-        //public UserSetup(string userName)
-        //{
-        //this.userName = userName;
-        //}
 
         public override string ToString()
         {

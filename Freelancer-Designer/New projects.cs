@@ -9,7 +9,6 @@ namespace FreelaneApplication.AddNewProjects
     {
         
         public string projectName { get; set; }
-        //public string clientName { get; set; }
         public string clientEmail { get; set; }
         public int projectPrice { get; set; }
         public DateTime projectDeadline { get; set; }
@@ -21,7 +20,6 @@ namespace FreelaneApplication.AddNewProjects
         public NewProjects(string ProjectName, string ClientEmail, int ProjectPrice, DateTime ProjectDeadline, string ProjectDescription, int ProjectSize, string ConcludingNotes)
         {
             this.projectName = ProjectName;
-            //this.clientName = ClientName;
             this.clientEmail = ClientEmail;
             this.projectPrice = ProjectPrice;
             this.projectDeadline = ProjectDeadline;
@@ -33,7 +31,6 @@ namespace FreelaneApplication.AddNewProjects
         public NewProjects()
         {
            this.projectName = string.Empty;
-            //this.clientName = string.Empty;
             this.clientEmail = string.Empty;
             this.projectPrice = 0;
             this.projectDeadline = DateTime.Now;
@@ -47,11 +44,6 @@ namespace FreelaneApplication.AddNewProjects
         {
             this.projectName = projectName;
         }
-
-       // public NewProjects(string projectName)
-       // {
-        //    this.ProjectName = projectName;
-        //}
 
         public override string ToString()
         {
