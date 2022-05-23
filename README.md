@@ -1,6 +1,7 @@
 # FreelanceFreedom
 
-![icon](https://user-images.githubusercontent.com/97265527/169731882-7825e214-f616-4151-92f0-3bd958f0594f.png)
+![icon](https://user-images.githubusercontent.com/97265527/169731982-b2f7349d-6430-404f-804c-48b1632be474.png)
+
 
 Benjamin Aho's Final Project for Code Louisville
 
