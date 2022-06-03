@@ -4,7 +4,7 @@
 
 For my final project, I created an app for people who work as freelancers. It allows the user to create a user profile, create new project, view current projects, and view these project's timelines. The menu is controlled by the command line.
 
-##Technologies
+## Technologies
 - **Backend** - C# 10 
 
 ## Features:
