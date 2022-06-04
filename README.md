@@ -19,4 +19,4 @@ For my final project, I created an app for people who work as freelancers. It al
 - [ ] Use Razor Pages, EF, and SQL to Make This Into a Web Application.
 - [ ] Refine the Code
 
-* [Benjamin Aho](Benjamin.aho27@gmail.com) Maintains this repository
+* <a href="mailto:Benjamin.aho27@gmail.com" title="FreelanceFreedom">Benjamin Aho</a> Maintains this repository
