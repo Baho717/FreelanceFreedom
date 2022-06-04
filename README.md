@@ -19,4 +19,4 @@ For my final project, I created an app for people who work as freelancers. It al
 - [ ] Use Razor Pages, EF, and SQL to Make This Into a Web Application.
 - [ ] Refine the Code
 
-*[Benjamin Aho](Benjamin.aho27@gmail.com.com) Maintains this repository
+* [Benjamin Aho](Benjamin.aho27@gmail.com) Maintains this repository
